@@ -1,0 +1,10 @@
+
+
+.App {
+  display: flex;
+}
+
+:root {
+  --sidebarBg:    #0d7e83;
+  --sidebarText:  #fff;
+}
